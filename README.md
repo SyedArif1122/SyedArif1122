@@ -5,13 +5,15 @@ With **2 years of industry experience**, I specialize in extracting meaningful p
 
 ---
 
-# :dizzy: About Me:
-**I’m currently working** on<br>Transforming raw data into actionable insights, building dashboards using Power BI and Looker Studio, and applying machine learning models (regression, classification, clustering) to support business strategies.<br><br>
-**I’m looking to collaborate** on<br>Data analysis projects, business intelligence dashboards, or any initiative that requires turning data into impactful business decisions.<br><br>
-**I’m looking for help** with<br>Expanding opportunities in dynamic, data-driven organizations where I can grow and contribute through data analysis.<br><br>
-**I’m currently learning**<br>Advanced techniques in machine learning and web scraping, as well as deepening my expertise in data storytelling and visualization tools.<br><br>
-**Ask me about**<br>Python, SQL, Power BI, Looker Studio, Excel, MS Access, exploratory data analysis (EDA), or how to design end-to-end data workflows.<br><br>
-**Fun fact**<br>I love solving complex data problems and transforming them into clear, visually compelling insights that influence real business outcomes.<br><br>
+## What I Do
+
+I transform raw data into actionable insights through dashboards (Power BI, Looker Studio) and machine learning models (regression, classification, clustering). I'm open to collaborations on data analysis and BI projects that drive impactful decisions.
+
+Currently, I’m expanding into **Data Engineering**, learning tools like **Apache Spark (PySpark)**, **Databricks**, **advanced SQL**, **DBT**, and **Microsoft Fabric** to build scalable, end-to-end data pipelines.
+
+Feel free to connect with me about Python, SQL, Excel, Power BI, Looker Studio, or end-to-end data workflows.
+
+I'm passionate about turning complex data into clear, compelling insights that help businesses grow.
 ## :globe_with_meridians: Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1YnTPipY6h/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Syed_Arif_Offixial)
