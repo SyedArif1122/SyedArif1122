@@ -32,15 +32,6 @@ I'm passionate about turning complex data into clear, compelling insights that h
 
 ---
 
-## :globe_with_meridians: Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1YnTPipY6h/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Syed_Arif_Offixial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/syed-arif-18a8a3221)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifshahzad887@gmail.com)
-
----
-
 ## :computer: Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -56,6 +47,13 @@ I'm passionate about turning complex data into clear, compelling insights that h
 ![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
+
+## :globe_with_meridians: Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1YnTPipY6h/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Syed_Arif_Offixial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/syed-arif-18a8a3221)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifshahzad887@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=SyedArif1122&icon=0&color=0)](https://visitcount.itsvg.in)
 
