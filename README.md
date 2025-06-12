@@ -1,4 +1,11 @@
-# 💫 About Me:
+# 👋 Hi there! I'm 𝐀𝐫𝐢𝐟
+
+A dedicated **Data Analyst** with a passion for turning data into actionable insights.
+With **2 years of industry experience**, I specialize in extracting meaningful patterns and trends to help businesses make data-driven decisions.
+
+---
+
+# :dizzy: About Me:
 :hammer_and_wrench: I’m currently working on<br>Transforming raw data into actionable insights, building dashboards using Power BI and Looker Studio, and applying machine learning models (regression, classification, clustering) to support business strategies.<br><br>
 
 :handshake: I’m looking to collaborate on<br>Data analysis projects, business intelligence dashboards, or any initiative that requires turning data into impactful business decisions.<br><br>
@@ -18,25 +25,30 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifshahzad887@gmail.com)
 
 # :computer: Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-6A5ACD?style=for-the-badge&logo=webcomponents.org&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+# :bar_chart: Tools & Platforms I Use Most:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MS Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-6A5ACD?style=for-the-badge&logo=webcomponents.org&logoColor=white)
-
-# :bar_chart: GitHub Stats:
+# :chart_with_upwards_trend: GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SyedArif1122&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SyedArif1122&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArif1122&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SyedArif1122&icon=0&color=0)](https://visitcount.itsvg.in)
