@@ -1,10 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=EBF7F7&background=0D1017FB&center=true&vCenter=true&width=435&lines=+++++++++++++++++Hi+there!+I'm+%F0%9D%90%80%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9F+%F0%9F%91%8B;Data+Analyst+%7C+BI+Developer+;Automation+Enthusiast;Python+%7C+SQL+;Power+BI+%7C+Looker+Studio;Convert+data+to+insights." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=EBF7F7&background=FFFFFFFB&center=true&vCenter=true&width=435&lines=+++++++++++++++++Hi+there!+I'm+%F0%9D%90%80%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9F+%F0%9F%91%8B;Data+Analyst+%7C+BI+Developer+;Automation+Enthusiast;Python+%7C+SQL+;Power+BI+%7C+Looker+Studio;Convert+data+to+insights." alt="Typing SVG" />
   </a>
 </p>
-
-
 
 ---
 
@@ -97,10 +95,7 @@ I'm passionate about turning complex data into clear, compelling insights that h
 ---
 
 ## 📈 GitHub Stats
-
-| 📊 Stats | 🔥 Streak |
-|---------|----------|
-| ![](https://github-readme-stats.vercel.app/api?username=SyedArif1122&theme=tokyonight&show_icons=true) | ![](https://streak-stats.demolab.com?user=SyedArif1122&theme=tokyonight) |
+![](https://github-readme-stats.vercel.app/api?username=SyedArif1122&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 
